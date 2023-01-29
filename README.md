@@ -17,9 +17,11 @@
 - kemudian buka file readme.md yang ada pada folder lab2py, setelah terbuka kalian bisa mengedit apa yang inigin kalian tuliskan, dan kemudian bisa dimasukkan update yang kalian lakukan dengan cara git add, kemudian commit, dan push untuk mengupdate apa yang kita masukkan ke repository.
 
 
-*gambar mengedit readme.md
+* gambar mengedit readme.md
+
 ![img 3](screenshot/9.png)
 
 
-*gambar mengedit di git-scm
+* gambar mengedit di git-scm
+
 ![img 4](screenshot/15.png)
