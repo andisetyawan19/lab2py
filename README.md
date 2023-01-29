@@ -9,4 +9,4 @@
 ![img 1](screenshot/1.png)
 
 - kemudian buka folder penyimpanan repository kalian, lalu klik kanan dan pilih git bush pada folder yang dituju.
-![img 2](screenshot/2.png)
+![img 2](screenshot/4.png)
