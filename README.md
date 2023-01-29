@@ -19,9 +19,11 @@
 
 * gambar mengedit readme.md
 
-![img 3](screenshot/9.png)
+![img 3][def]
 
 
 * gambar mengedit di git-scm
 
 ![img 4](screenshot/15.png)
+
+[def]: screenshot/9.png
